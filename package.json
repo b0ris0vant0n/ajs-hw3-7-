@@ -1,0 +1,23 @@
+{
+  "name": "ajs-hw3-7-",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/b0ris0vant0n/ajs-hw3-7-.git"
+  },
+  "author": "Anton Borisov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/b0ris0vant0n/ajs-hw3-7-/issues"
+  },
+  "homepage": "https://github.com/b0ris0vant0n/ajs-hw3-7-#readme",
+  "dependencies": {
+    "@b0ris0vant0n/ajs-homework3_": "^1.0.0"
+  }
+}
